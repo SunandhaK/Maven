@@ -119,4 +119,5 @@ public class TestScript extends TestBase
 	{
 		driver.close();
 	}
+	Sysout (hi);
 }

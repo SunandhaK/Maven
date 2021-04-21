@@ -1,0 +1,6 @@
+url=http://demo.guru99.com/test/newtours/
+Chromepath=F:\\Drivers\\chromedriver_win32\\chromedriver.exe
+Firefox=F:\\Drivers\\geckodriver-v0.29.0-win64\\geckodriver.exe
+Browsername=Chrome
+username=
+password=

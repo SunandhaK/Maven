@@ -1,0 +1,4 @@
+# Created at 2021-04-20T10:12:48.502
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Esclipse\eclipse-workspace\Com.Infomats.Mercury\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

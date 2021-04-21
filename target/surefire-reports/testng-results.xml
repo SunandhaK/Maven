@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="19" passed="19">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28315" started-at="2021-04-20T10:12:49 IST" finished-at="2021-04-20T10:13:17 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28315" started-at="2021-04-20T10:12:49 IST" finished-at="2021-04-20T10:13:17 IST">
+      <class name="Com.Infomats.Mercury.Script.TestScript">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="setup" is-config="true" duration-ms="16819" started-at="2021-04-20T10:12:49 IST" finished-at="2021-04-20T10:13:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateRegister()[pri:1, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validateRegister" duration-ms="1328" started-at="2021-04-20T10:13:06 IST" finished-at="2021-04-20T10:13:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegister -->
+        <test-method status="PASS" signature="validateFirstname()[pri:2, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validateFirstname" duration-ms="169" started-at="2021-04-20T10:13:07 IST" finished-at="2021-04-20T10:13:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFirstname -->
+        <test-method status="PASS" signature="validateLastname()[pri:3, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validateLastname" duration-ms="91" started-at="2021-04-20T10:13:07 IST" finished-at="2021-04-20T10:13:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLastname -->
+        <test-method status="PASS" signature="validatePhonenum()[pri:4, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validatePhonenum" duration-ms="106" started-at="2021-04-20T10:13:07 IST" finished-at="2021-04-20T10:13:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePhonenum -->
+        <test-method status="PASS" signature="validateEmail()[pri:5, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validateEmail" duration-ms="110" started-at="2021-04-20T10:13:08 IST" finished-at="2021-04-20T10:13:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEmail -->
+        <test-method status="PASS" signature="validateAdres()[pri:6, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validateAdres" duration-ms="92" started-at="2021-04-20T10:13:08 IST" finished-at="2021-04-20T10:13:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAdres -->
+        <test-method status="PASS" signature="validateCity()[pri:7, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validateCity" duration-ms="85" started-at="2021-04-20T10:13:08 IST" finished-at="2021-04-20T10:13:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCity -->
+        <test-method status="PASS" signature="validateState()[pri:8, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validateState" duration-ms="82" started-at="2021-04-20T10:13:08 IST" finished-at="2021-04-20T10:13:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateState -->
+        <test-method status="PASS" signature="validatePostalcode()[pri:9, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validatePostalcode" duration-ms="71" started-at="2021-04-20T10:13:08 IST" finished-at="2021-04-20T10:13:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePostalcode -->
+        <test-method status="PASS" signature="validateCountry()[pri:10, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validateCountry" duration-ms="80" started-at="2021-04-20T10:13:08 IST" finished-at="2021-04-20T10:13:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCountry -->
+        <test-method status="PASS" signature="validateUserName()[pri:11, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validateUserName" duration-ms="97" started-at="2021-04-20T10:13:08 IST" finished-at="2021-04-20T10:13:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserName -->
+        <test-method status="PASS" signature="validatePassword()[pri:12, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validatePassword" duration-ms="101" started-at="2021-04-20T10:13:08 IST" finished-at="2021-04-20T10:13:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePassword -->
+        <test-method status="PASS" signature="validateConfirmpass()[pri:13, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validateConfirmpass" duration-ms="99" started-at="2021-04-20T10:13:08 IST" finished-at="2021-04-20T10:13:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateConfirmpass -->
+        <test-method status="PASS" signature="validateSubmit()[pri:14, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validateSubmit" duration-ms="2915" started-at="2021-04-20T10:13:08 IST" finished-at="2021-04-20T10:13:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSubmit -->
+        <test-method status="PASS" signature="validateSignOn()[pri:15, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validateSignOn" duration-ms="2075" started-at="2021-04-20T10:13:11 IST" finished-at="2021-04-20T10:13:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSignOn -->
+        <test-method status="PASS" signature="validateSiUser()[pri:16, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validateSiUser" duration-ms="82" started-at="2021-04-20T10:13:13 IST" finished-at="2021-04-20T10:13:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSiUser -->
+        <test-method status="PASS" signature="validateSipas()[pri:17, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validateSipas" duration-ms="74" started-at="2021-04-20T10:13:13 IST" finished-at="2021-04-20T10:13:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSipas -->
+        <test-method status="PASS" signature="validateSigsub()[pri:18, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validateSigsub" duration-ms="2360" started-at="2021-04-20T10:13:14 IST" finished-at="2021-04-20T10:13:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSigsub -->
+        <test-method status="PASS" signature="validateSignof()[pri:19, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="validateSignof" duration-ms="1287" started-at="2021-04-20T10:13:16 IST" finished-at="2021-04-20T10:13:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSignof -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Com.Infomats.Mercury.Script.TestScript@3d921e20]" name="teardown" is-config="true" duration-ms="134" started-at="2021-04-20T10:13:17 IST" finished-at="2021-04-20T10:13:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Com.Infomats.Mercury.Script.TestScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
